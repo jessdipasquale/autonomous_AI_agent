@@ -1,0 +1,72 @@
+SCORING FRAMEWORK – MARKET ENTRY ASSESSMENT
+German Longevity / Health Food Market
+
+
+========================================
+1. MARKET ATTRACTIVENESS
+(How structurally attractive is the German longevity / health food market?)
+========================================
+
+Score | Definition            | Indicators
+------------------------------------------------------------
+1     | Very unattractive     | Shrinking or stagnant market, weak industry outlook, weak growth signals, low consumer awareness
+2     | Weak                  | Minimal growth, niche adoption, limited retail presence, few investment signals
+3     | Moderate              | Stable growth, growing but not mainstream, increasing but uneven adoption, some expansion activity
+4     | Attractive            | Strong multi-year growth, clear consumer trend momentum, retail expansion visible, positive industry outlook, media attention
+5     | Highly attractive     | Rapid growth, mainstream consumer adoption, strong media & investor attention, category expansion across channels
+
+
+
+========================================
+2. COMPETITIVE INTENSITY
+(How difficult is it to compete in the German market?)
+========================================
+
+Score | Definition               | Indicators
+------------------------------------------------------------
+1     | Extremely competitive    | Dominated by strong incumbents, high brand loyalty, high switching barriers, high shelf-space control
+2     | Very competitive         | Many established players, visible price pressure, limited differentiation space
+3     | Moderately competitive   | Several competitors, no dominant leader, some differentiation space
+4     | Manageable competition   | Fragmented market, positioning gaps exist, room for differentiation
+5     | Low competition          | Few direct competitors, market underserved, clear white space opportunity
+
+
+
+========================================
+3. DEMAND STRENGTH
+(Are there clear signals that German consumers want this category?)
+========================================
+
+Score | Definition            | Indicators
+------------------------------------------------------------
+1     | Very weak demand      | Low visibility, declining interest, minimal retail distribution
+2     | Weak demand           | Niche awareness, limited coverage, small-scale adoption
+3     | Moderate demand       | Growing awareness, occasional media coverage, emerging consumer interest
+4     | Strong demand         | Frequent media coverage, clear consumer trend alignment, expanding product availability
+5     | Very strong demand    | Mainstream awareness, rapid expansion, strong social/media visibility, strong lifestyle adoption
+
+
+
+========================================
+FINAL OPPORTUNITY SCORING & RECOMMENDATION
+========================================
+
+Step 1: Calculate Overall Score
+
+Average the three criteria:
+- Market Attractiveness (M)
+- Competitive Intensity (C)
+- Demand Strength (D)
+
+Overall Score = (M + C + D) / 3
+
+
+========================================
+DECISION FRAMEWORK
+========================================
+
+Overall Score | Interpretation        | Recommendation | Meaning
+---------------------------------------------------------------------------
+4.0 – 5.0     | Strong opportunity    | GO             | Attractive market, manageable competition, strong demand. Consider active market entry planning.
+2.5 – 3.9     | Moderate opportunity  | EXPLORE        | Mixed signals. Conduct pilot launch, partnerships, or limited market testing before full entry.
+1.0 – 2.4     | Weak opportunity      | NO-GO          | Structural challenges outweigh opportunities. Avoid entry at this time.
